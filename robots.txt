@@ -1,0 +1,3 @@
+Sitemap: https://my.samyz.cn/sitemap.xml
+
+User-agent: *
