@@ -1,0 +1,37 @@
+{
+  "name": "yessz三大体系",
+  "short_name": "RAT-DOC",
+  "start_url": "/rat-idx/index.html",
+  "description": "rat doc show detail",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#11a8cd",
+  "icons": [
+    {
+      "src": "/rat-idx/icons/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/rat-idx/icons/256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/rat-idx/icons/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/rat-idx/icons/144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+    ,
+    {
+      "src": "/rat-idx/icons/128.png",
+      "type": "image/png",
+      "sizes": "128x144"
+    }
+  ]
+}
